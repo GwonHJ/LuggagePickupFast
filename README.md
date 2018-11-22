@@ -1,14 +1,33 @@
 # VIST
 
+안드로이드 스튜디오 설치 : https://developer.android.com/studio/install?hl=ko
+
+Firebase 주의할 점
+
+    Firebase 이용시 Chrome을 이용하여 접속할 것
+    인터넷환경이 좋지 않을 시 접속이 힘들 수 있음
+    
+Firebase 장점
+    
+        1. 무료
+        2. 보안
+        3. 기존의 서버 구축에 비해 간단
+        4. 실시간 데이터 처리
+        5. 간단한 PUSH 알람
+        
+
+# 경북대학교 SW융합 해커톤 출품작
+
 프로젝트명 : LPF (Luggage Pickup Fast)
+
+팀명 : VIST
 
 팀원 : 권현지, 석수민, 송민혜, 유소정, 장하림
 
 Youtube 주소 : https://youtu.be/vpl9_RSFvDs
 
-# 경북대학교 SW융합 해커톤 출품작
-
 개발 플랫폼 : 안드로이드 스튜디오, Firebase, Google Spreadsheet
+
 
 개발개요
     
