@@ -1,6 +1,9 @@
 # VIST
 
 프로젝트명 : LPF (Luggage Pickup Fast)
+
+팀원 : 권현지, 석수민, 송민혜, 유소정, 장하림
+
 Youtube 주소 : https://youtu.be/vpl9_RSFvDs
 
 # 경북대학교 SW융합 해커톤 출품작
