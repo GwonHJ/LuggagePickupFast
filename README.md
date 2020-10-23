@@ -1,20 +1,5 @@
-# VIST
+# VIST / RFID를 이용한 수화물도착 알림 서비스
 
-안드로이드 스튜디오 설치 : https://developer.android.com/studio/install?hl=ko
-
-Firebase 주의할 점
-
-    Firebase 이용시 Chrome을 이용하여 접속할 것
-    인터넷환경이 좋지 않을 시 접속이 힘들 수 있음
-    
-Firebase 장점
-    
-        1. 무료
-        2. 보안
-        3. 기존의 서버 구축에 비해 간단
-        4. 실시간 데이터 처리
-        5. 간단한 PUSH 알람
-        
 
 # 경북대학교 SW융합 해커톤 출품작
 
@@ -45,3 +30,20 @@ Youtube 주소 : https://youtu.be/vpl9_RSFvDs
     이때 항공사에서 등록되지 않은 태그는 로그인이 되지 않는다(NFC가 있는 카드들이 아무거나 읽는것을 방지하기 위해서)
     
     수하물이 비행기에서 내리면서 태그가 리더기에 읽히면 사용자는 수하물이 도착한 정보를 휴대폰으로 알 수 있다.
+안드로이드 스튜디오 설치 : https://developer.android.com/studio/install?hl=ko
+
+Firebase 주의할 점
+
+    Firebase 이용시 Chrome을 이용하여 접속할 것
+    인터넷환경이 좋지 않을 시 접속이 힘들 수 있음
+    
+Firebase 장점
+    
+        1. 무료
+        2. 보안
+        3. 기존의 서버 구축에 비해 간단
+        4. 실시간 데이터 처리
+        5. 간단한 PUSH 알람
+        
+
+
