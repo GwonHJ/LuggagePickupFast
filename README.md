@@ -14,6 +14,8 @@
 
 Android App개발 담당
 
+(개발 당시 Github사용방법을 몰라서 다른 팀원이 전체 코드를 업로드하였습니다.)
+
 ## 개발개요
     
     RFID를 이용하여 수하물 예상 도착 알림 서비스 어플리케이션
@@ -36,7 +38,6 @@ Android App개발 담당
 ![LPF2](https://user-images.githubusercontent.com/45057466/97435898-75e07380-1964-11eb-818a-0b50b6210158.png)
 
 
-안드로이드 스튜디오 설치 : https://developer.android.com/studio/install?hl=ko
 
 ## Spreadsheet
 
@@ -114,6 +115,8 @@ function writeDataToFirebase() {
 }
 
 ```
+
+안드로이드 스튜디오 설치 : https://developer.android.com/studio/install?hl=ko
 
 Firebase 주의할 점
 
