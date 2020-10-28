@@ -12,6 +12,7 @@
 
 개발 플랫폼 : 안드로이드 스튜디오, Firebase, Google Spreadsheet
 
+Android App개발 담당
 
 ## 개발개요
     
