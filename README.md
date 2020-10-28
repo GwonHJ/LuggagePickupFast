@@ -9,12 +9,12 @@
 
 팀원 : 권현지, 석수민, 송민혜, 유소정, 장하림
 
-Youtube 주소 : https://youtu.be/vpl9_RSFvDs
+시연영상 : https://youtu.be/vpl9_RSFvDs
 
 개발 플랫폼 : 안드로이드 스튜디오, Firebase, Google Spreadsheet
 
 
-개발개요
+## 개발개요
     
     RFID를 이용하여 수하물 예상 도착 알림 서비스 어플리케이션
     
@@ -23,13 +23,19 @@ Youtube 주소 : https://youtu.be/vpl9_RSFvDs
     타켓 : 연착된 비행기를 기다리는 사람
     
     
- 상세내용
+## 상세내용
     
     항공사에서 RFID를 등록한 후 어플리케이션 사용자에게 태그를 주면 사용자는 그 태그를 이용하여 어플리케이션에 자동으로 로그인한다.
     
     이때 항공사에서 등록되지 않은 태그는 로그인이 되지 않는다(NFC가 있는 카드들이 아무거나 읽는것을 방지하기 위해서)
     
     수하물이 비행기에서 내리면서 태그가 리더기에 읽히면 사용자는 수하물이 도착한 정보를 휴대폰으로 알 수 있다.
+
+## 실행화면 예시
+![LPf](https://user-images.githubusercontent.com/45057466/97435875-6cefa200-1964-11eb-83cf-8f7fef290ba9.png)
+![LPF2](https://user-images.githubusercontent.com/45057466/97435898-75e07380-1964-11eb-818a-0b50b6210158.png)
+
+
 안드로이드 스튜디오 설치 : https://developer.android.com/studio/install?hl=ko
 
 Firebase 주의할 점
