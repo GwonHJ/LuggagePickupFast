@@ -1,5 +1,4 @@
-# VIST / RFID를 이용한 수화물도착 알림 서비스
-
+# LPF(Luggage Pickup Fast) / RFID를 이용한 수화물도착 알림 서비스
 
 # 경북대학교 SW융합 해커톤 출품작
 
@@ -53,9 +52,7 @@ spreadsheet에서 정보를 가져와서 firebase에 저장되게한다.
 <https://docs.google.com/spreadsheets/d/1Ky18cNLftrZCcH0kuFij8dk05H6UuZFmiMSV3MeVAa0/edit?usp=sharing>
 
 
-[script]
-
-```
+```java
 function writeDataToFirebase() {
   var sheet = SpreadsheetApp.openById("1Ky18cNLftrZCcH0kuFij8dk05H6UuZFmiMSV3MeVAa0");
   var mysheet = sheet.setActiveSheet(sheet.getSheets()[0]);
@@ -87,9 +84,7 @@ function writeDataToFirebase() {
 <https://docs.google.com/spreadsheets/d/1_BvT5diDqs2XiD1tvIDaTf_a5EBuOgvmQ2MgfDprU8I/edit?usp=sharing>
 
 
-[script]
-
-```
+```java
 function writeDataToFirebase() {
   var sheet = SpreadsheetApp.openById("1_BvT5diDqs2XiD1tvIDaTf_a5EBuOgvmQ2MgfDprU8I");
   var mysheet = sheet.setActiveSheet(sheet.getSheets()[0]);
@@ -97,7 +92,7 @@ function writeDataToFirebase() {
   var dataToImport = {};
   
   
-  var firebaseUrl = "https://vist-rfid.firebaseio.com/";
+  var firebaseUrl = "<https://vist-rfid.firebaseio.com/>";
   var secret = "jDdGbaqymeSbpEgXAty5OHnOI47TDSEqhljxpzRg";
   var base = FirebaseApp.getDatabaseByUrl(firebaseUrl,secret);
   
@@ -116,8 +111,8 @@ function writeDataToFirebase() {
  
   base.setData("rfid", dataToImport);
 }
-```
 
+```
 
 Firebase 주의할 점
 
