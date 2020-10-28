@@ -39,6 +39,7 @@ Android App개발 담당
 
 ## Android APP
 
+안드로이드 애플리케이션 개발에 관한 설명은 코드에 주석으로 되어있습니다.
 
 [MainActivity.java](https://github.com/GwonHJ/LuggagePickupFast/blob/master/app/src/main/java/com/jhl/ativ/vist/MainActivity.java)
 
